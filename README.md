@@ -1,4 +1,4 @@
-# Predicci-n-popularidad-xitos-musicales
+# Popularity-prediction-based-on-Spotify-hits
 Proyecto de Machine Learning enfocado a la predicción de la popularidad de canciones basado en un análisis de Spotify.
 
 Todas las canciones que lanzan los artistas mundialmente reconocidos suelen ser hits independientemente del estilo que toquen, pero ¿qué pasa con esas canciones de artistas infravalorados o bedroom artists que acaban siendo éxitos virales? ¿Dónde está el elemento común que hace que a todos nos revuelva algo por dentro una canción determinada y se transmita entre unos y otros hasta llegar a oídos de todos?
